@@ -1,0 +1,10 @@
+// Update %%i: refactored function or added helper 
+function dummyUpdate%%i() { return %%i; } 
+/* Update %%i: minor style tweak */ 
+.update%%i { margin: 0; padding: 0; } 
+- Small update %%i for documentation 
+// Commit %%i: minor function tweak 
+function dummyUpdate%%i() { return %%i; } 
+/* Commit %%i: small style tweak */ 
+.update%%i { margin: 0; padding: 0; } 
+- Commit %%i: documentation update 
