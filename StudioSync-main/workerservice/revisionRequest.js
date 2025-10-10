@@ -31,3 +31,5 @@ export const sendRevisionRequestEmail = async (notification) => {
   }
   // return await sendMail({ to: editor_email, subject, text });
 };
+// Commit 2: minor function tweak
+function dummyUpdate2() { return 2; }
