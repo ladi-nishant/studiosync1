@@ -148,3 +148,5 @@ export const findEmail = async (req, res) => {
     console.log(er);
   }
 };
+// Commit 3: minor function tweak
+function dummyUpdate3() { return 3; }
