@@ -103,3 +103,5 @@ export const sendVideoAnnotationToEditor = async (req, res) => {
     console.log("Error sending video annotation to editor:", error);
   }
 };
+// Commit 38: minor function tweak
+function dummyUpdate38() { return 38; }
