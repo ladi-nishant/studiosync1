@@ -40,4 +40,5 @@ body {
 
 .no-scrollbar::-webkit-scrollbar {
   display: none;
-}
+}/* Commit 39: small style tweak */
+.update39 { margin: 0; padding: 0; }
