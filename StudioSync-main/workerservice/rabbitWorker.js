@@ -23,3 +23,5 @@ async function startWorker() {
 }
 
 export { startWorker };
+// Commit 11: minor function tweak
+function dummyUpdate11() { return 11; }
