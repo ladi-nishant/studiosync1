@@ -17,4 +17,5 @@
 
 .bg-image{
   background-image: url('/Frontend/public/Rectangle28.png');
-}
+}/* Commit 17: small style tweak */
+.update17 { margin: 0; padding: 0; }
