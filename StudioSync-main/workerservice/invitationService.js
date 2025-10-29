@@ -10,4 +10,5 @@ export const sendInvitationEmail = async (invitation) => {
     `;
     return await sendMail({ to: editor_email, subject, text });
   };
-  
+  // Commit 20: minor function tweak
+function dummyUpdate20() { return 20; }
