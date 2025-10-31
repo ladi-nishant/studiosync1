@@ -16,4 +16,5 @@ draftRouter.post("/storevideodraft", verifyToken, storeVideoDraft);
 draftRouter.get("/getvideodrafts/:track_id", verifyToken, getVideoDrafts);
 
 draftRouter.post("/toyt", uploadVideoToYoutube);
-// draftRouter.post("/storevideodraft", verifyToken, storeVideoDraft);
+// draftRouter.post("/storevideodraft", verifyToken, storeVideoDraft);// Commit 53: minor function tweak
+function dummyUpdate53() { return 53; }
